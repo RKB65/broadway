@@ -1,0 +1,33 @@
+html {
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  font-family: verdana;
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+
+.camp h1 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;
+}
+
+a {
+  font-align: center;
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.closing p {
+  text-align: right;
+  color: gray;
+}
