@@ -4,6 +4,14 @@ html {
   font-size: 14px;
 }
 
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
